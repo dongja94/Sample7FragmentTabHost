@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_selected="true"
+        android:drawable="@drawable/background_select" />
+    <item android:drawable="@drawable/background_normal" />
+</selector>
+<!-- From: file:/C:/Android/Library/android-education-project/Sample7FragmentTabHost1/app/src/main/res/drawable/tabspec_background.xml -->
